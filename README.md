@@ -88,11 +88,11 @@ CAVEDU出版之Jetson Nano書籍範例
 *	[註3-10] PASCAL VOC: http://host.robots.ox.ac.uk/pascal/VOC/
 
 第四章：GPIO硬體控制：
-	[註4-1] NVIDIA Jetson Nano 4GB接頭說明：https://www.jetsonhacks.com/nvidia-jetson-nano-j41-header-pinout/
-	[註4-2] jetson-gpio github: https://github.com/NVIDIA/jetson-gpio
-	[註4-3] BCM與BOARD腳位編號說明：https://iot4beginners.com/difference-between-bcm-and-board-pin-numbering-in-raspberry-pi/
-	[註4-4] 電阻色碼計算器：https://www.digikey.tw/zh/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band
-	[註4-5] I2C LCD函式庫：https://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/
+*	[註4-1] NVIDIA Jetson Nano 4GB接頭說明：https://www.jetsonhacks.com/nvidia-jetson-nano-j41-header-pinout/
+*	[註4-2] jetson-gpio github: https://github.com/NVIDIA/jetson-gpio
+*	[註4-3] BCM與BOARD腳位編號說明：https://iot4beginners.com/difference-between-bcm-and-board-pin-numbering-in-raspberry-pi/
+*	[註4-4] 電阻色碼計算器：https://www.digikey.tw/zh/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band
+*	[註4-5] I2C LCD函式庫：https://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/
 
 第五章：Jetbot機器人動作控制
 *	[註5-1] Jetbot Wiki: https://github.com/NVIDIA-AI-IOT/jetbot/wiki
