@@ -16,8 +16,11 @@ CAVEDU出版之Jetson Nano書籍範例
 
 
 ## 相關連結
-* SD card img file download:
+* SD card img file download:t
 * CAVEDU 技術部落格相關文章：https://blog.cavedu.com/?s=jetson
+* 購書：
+* 購買 Jetson Nano套件：https://robotkingdom.com.tw/product/nvidia-jetson-nano-developer-kit-set-b01/
+* 購買 RK-jetbot：https://robotkingdom.com.tw/?s=jetbot&post_type=product
 
 ## 各章註解
 第一章：AI、神經網路與邊緣裝置：
