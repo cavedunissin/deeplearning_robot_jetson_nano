@@ -23,7 +23,7 @@ CAVEDU出版之Jetson Nano書籍範例
 * 購買 RK-jetbot：https://robotkingdom.com.tw/?s=jetbot&post_type=product
 
 ## 各章註解
-第一章：AI、神經網路與邊緣裝置：
+**第一章：AI、神經網路與邊緣裝置**
 *	[註1-1] Bringing AI to the device: Edge AI chips come into their own:  https://www2.deloitte.com/cn/en/pages/technology-media-and-telecommunications/articles/tmt-predictions-2020-ai-chips.html
 *	[註1-2] 何謂邊緣運算？https://blogs.nvidia.com.tw/2019/10/22/what-is-edge-computing/
 *	[註1-3] Raspberry Pi 4: https://www.raspberrypi.org/products/raspberry-pi-4-model-b/specifications/
@@ -51,7 +51,7 @@ CAVEDU出版之Jetson Nano書籍範例
 *	[註1-25] Jetson Nano與其他SBC效能比較：https://devblogs.nvidia.com/jetson-nano-ai-computing/
 *	[註1-26] Jetson Nano快速上手頁面：https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
 
-第二章：Jetson Nano 單板電腦：
+**第二章：Jetson Nano 單板電腦**
 * [註2-1] Jetson Nano主頁面 ：https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#intro
 *	[註2-2] Jetson Nano映像檔載點：https://developer.nvidia.com/jetson-nano-sd-card-image
 *	[註2-3] balenaEtcher: https://www.balena.io/etcher/。NVIDIA有提供各作業系統的英文教學)
@@ -75,7 +75,7 @@ CAVEDU出版之Jetson Nano書籍範例
 *	[註2-21] 圖片疊合：https://www.twblogs.net/a/5bb03a202b7177781a0fdf6d
 *	[註2-22] cv2.putText語法參數說明：https://docs.opencv.org/master/d6/d6e/group__imgproc__draw.html
 
-第三章：深度學習結合視覺辨識：
+**第三章：深度學習結合視覺辨識**
 *	[註3-1] NVIDIA官網介紹Deploying Deep Learning: https://developer.nvidia.com/embedded/twodaystoademo
 *	[註3-2] TenrsorRT: https://developer.nvidia.com/zh-cn/tensorrt
 *	[註3-3] jetson-inference github網站：https://github.com/dusty-nv/jetson-inference
@@ -87,14 +87,14 @@ CAVEDU出版之Jetson Nano書籍範例
 *	[註3-9] 影像語意分割Jetson-inference: Semantic Segmentation with SegNet：https://github.com/dusty-nv/jetson-inference/blob/master/docs/segnet-console-2.md 
 *	[註3-10] PASCAL VOC: http://host.robots.ox.ac.uk/pascal/VOC/
 
-第四章：GPIO硬體控制：
+**第四章：GPIO硬體控制**
 *	[註4-1] NVIDIA Jetson Nano 4GB接頭說明：https://www.jetsonhacks.com/nvidia-jetson-nano-j41-header-pinout/
 *	[註4-2] jetson-gpio github: https://github.com/NVIDIA/jetson-gpio
 *	[註4-3] BCM與BOARD腳位編號說明：https://iot4beginners.com/difference-between-bcm-and-board-pin-numbering-in-raspberry-pi/
 *	[註4-4] 電阻色碼計算器：https://www.digikey.tw/zh/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band
 *	[註4-5] I2C LCD函式庫：https://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/
 
-第五章：Jetbot機器人動作控制
+**第五章：Jetbot機器人動作控制**
 *	[註5-1] Jetbot Wiki: https://github.com/NVIDIA-AI-IOT/jetbot/wiki
 *	[註5-2]Jetbot範例：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/examples 
 *	[註5-3] basic motion展示影片：https://www.youtu.be/L9TOpQhupmY 
@@ -109,7 +109,7 @@ CAVEDU出版之Jetson Nano書籍範例
 *	[註5-12] teleoperation.ipynb: https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/teleoperation/teleoperation.ipynb
 *	[註5-13] HTML5 Gamepad Tester搖桿偵測網站：http://html5gamepad.com
 
-第六章：JetBot深度視覺機器人
+**第六章：JetBot深度視覺機器人**
 *	[註6-1] 什麼是深度學習：https://blogs.nvidia.com/blog/2015/02/19/deep-learning-2/ 
 *	[註6-2] AI、機器學習與深度學習的差異：https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/ 	
 *	[註6-3] 深度學習訓練與推論 https://blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-training-inference-ai/
@@ -122,4 +122,4 @@ CAVEDU出版之Jetson Nano書籍範例
 *	[註6-10]道路跟隨影片：https://youtu.be/8vN29tz4omg
 *	[註6-11]ResNet-18神經網路：https://pytorch.org/hub/pytorch_vision_resnet/
 
-第七章：Intel RealSense 深度視覺攝影機
+**第七章：Intel RealSense 深度視覺攝影機**
