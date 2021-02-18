@@ -2,6 +2,8 @@
 CAVEDU出版之Jetson Nano書籍範例
 
 ## 作者
+* 曾吉弘博士，CAVEDU教育團隊技術總監、MIT CSAIL訪問學者、NVIDIA Jetson AI ambassador
+* 郭俊廷，CAVEDU教育團隊資深講師、NVIDIA Jetson AI specialist
 
 ## 章節
 * 第一章：AI、神經網路與邊緣裝置
@@ -71,11 +73,50 @@ CAVEDU出版之Jetson Nano書籍範例
 *	[註2-22] cv2.putText語法參數說明：https://docs.opencv.org/master/d6/d6e/group__imgproc__draw.html
 
 第三章：深度學習結合視覺辨識：
+*	[註3-1] NVIDIA官網介紹Deploying Deep Learning: https://developer.nvidia.com/embedded/twodaystoademo
+*	[註3-2] TenrsorRT: https://developer.nvidia.com/zh-cn/tensorrt
+*	[註3-3] jetson-inference github網站：https://github.com/dusty-nv/jetson-inference
+*	[註3-4] jetson-inference建置流程：https://github.com/dusty-nv/jetson-inference/blob/master/docs/building-repo-2.md
+*	[註3-5] 影像辨識Jetson-inference: Classifying Images with ImageNet: https://github.com/dusty-nv/jetson-inference/blob/master/docs/imagenet-console-2.md
+*	[註3-6] GoogleNet: https://arxiv.org/pdf/1409.4842.pdf
+*	[註3-7] 物件偵測Jetson-inference: Locating Objects with DetectNet：https://github.com/dusty-nv/jetson-inference/blob/master/docs/detectnet-console-2.md 
+*	[註3-8] MS COCO資料集：https://cocodataset.org/#home
+*	[註3-9] 影像語意分割Jetson-inference: Semantic Segmentation with SegNet：https://github.com/dusty-nv/jetson-inference/blob/master/docs/segnet-console-2.md 
+*	[註3-10] PASCAL VOC: http://host.robots.ox.ac.uk/pascal/VOC/
 
-Ch04:
+第四章：GPIO硬體控制：
+	[註4-1] NVIDIA Jetson Nano 4GB接頭說明：https://www.jetsonhacks.com/nvidia-jetson-nano-j41-header-pinout/
+	[註4-2] jetson-gpio github: https://github.com/NVIDIA/jetson-gpio
+	[註4-3] BCM與BOARD腳位編號說明：https://iot4beginners.com/difference-between-bcm-and-board-pin-numbering-in-raspberry-pi/
+	[註4-4] 電阻色碼計算器：https://www.digikey.tw/zh/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band
+	[註4-5] I2C LCD函式庫：https://www.circuitbasics.com/raspberry-pi-i2c-lcd-set-up-and-programming/
 
-Ch05:
+第五章：Jetbot機器人動作控制
+*	[註5-1] Jetbot Wiki: https://github.com/NVIDIA-AI-IOT/jetbot/wiki
+*	[註5-2]Jetbot範例：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/examples 
+*	[註5-3] basic motion展示影片：https://www.youtu.be/L9TOpQhupmY 
+*	[註5-4] teleoperation展示影片：https://www.youtu.be/drOwT_HPe_k 
+*	[註5-5] collision avoidance展示影片：https://www.youtu.be/Nho1wcHwQUM
+*	[註5-6] Road following展示影片：https://www.youtu.be/8vN29tz4omg
+*	[註5-7] Jetbot功能展示影片：https://youtu.be/UCHx_tT2x98
+*	[註5-8] Jetbot原廠硬體清單：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/bill-of-materials
+*	[註5-9] Jetbot映像檔下載點：https://jetbot.org/master/software_setup/sd_card.html
+*	[註5-10] Jupyter官方教學：https://jupyterlab.readthedocs.io/en/stable/ 
+*	[註5-11] basic_motion.ipynb: https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks_CAVEDU/basic_motion/basic_motion.ipynb
+*	[註5-12] teleoperation.ipynb: https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/teleoperation/teleoperation.ipynb
+*	[註5-13] HTML5 Gamepad Tester搖桿偵測網站：http://html5gamepad.com
 
-Ch06:
+第六章：JetBot深度視覺機器人
+*	[註6-1] 什麼是深度學習：https://blogs.nvidia.com/blog/2015/02/19/deep-learning-2/ 
+*	[註6-2] AI、機器學習與深度學習的差異：https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/ 	
+*	[註6-3] 深度學習訓練與推論 https://blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-training-inference-ai/
+*	[註6-4] 障礙迴避專案資料夾：https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/notebooks/collision_avoidance
+*	[註6-5] 障礙迴避執行影片：
+*	[註6-6] pytorch：https://pytorch.org/
+*	[註6-7] alexnet神經網路：http://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf
+*	[註6-8] ImageNet影像資料集：http://www.image-net.org/
+*	[註6-9] 道路跟隨專案資料夾：https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/notebooks/road_following
+*	[註6-10]道路跟隨影片：https://youtu.be/8vN29tz4omg
+*	[註6-11]ResNet-18神經網路：https://pytorch.org/hub/pytorch_vision_resnet/
 
-Ch07:
+第七章：Intel RealSense 深度視覺攝影機
