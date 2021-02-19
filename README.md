@@ -1,5 +1,5 @@
-# deeplearning_robot_jetson_nano
-CAVEDU出版之Jetson Nano書籍範例
+# [深度學習邊緣運算 - NVIDIA Jetson Nano(書名暫定)]
+CAVEDU出版之 Jetson Nano 書籍範例與相關資源
 
 ## 作者
 * 曾吉弘博士，CAVEDU教育團隊技術總監、MIT CSAIL訪問學者、NVIDIA Jetson AI ambassador
@@ -14,9 +14,8 @@ CAVEDU出版之Jetson Nano書籍範例
 * 第六章：JetBot深度視覺機器人
 * 第七章：Intel RealSense 深度視覺攝影機
 
-
 ## 相關連結
-* SD card img file download:t
+* 開機用 SD 卡映像檔下載：
 * CAVEDU 技術部落格相關文章：https://blog.cavedu.com/?s=jetson
 * 購書：
 * 購買 Jetson Nano套件：https://robotkingdom.com.tw/product/nvidia-jetson-nano-developer-kit-set-b01/
