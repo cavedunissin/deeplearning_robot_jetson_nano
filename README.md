@@ -20,6 +20,7 @@ CAVEDU出版之 Jetson Nano 書籍範例與相關資源
 * 購書：
 * 購買 Jetson Nano套件：https://robotkingdom.com.tw/product/nvidia-jetson-nano-developer-kit-set-b01/
 * 購買 RK-jetbot：https://robotkingdom.com.tw/?s=jetbot&post_type=product
+![image](https://robotkingdom.com.tw/wp-content/uploads/2020/03/IMG_5024-scaled.jpg)
 
 ## 各章註解
 **第一章：AI、神經網路與邊緣裝置**
