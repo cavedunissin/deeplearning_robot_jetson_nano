@@ -20,7 +20,28 @@ CAVEDU出版之 Jetson Nano 書籍範例與相關資源
 * 購書：
 * 購買 Jetson Nano套件：https://robotkingdom.com.tw/product/nvidia-jetson-nano-developer-kit-set-b01/
 * 購買 RK-jetbot：https://robotkingdom.com.tw/?s=jetbot&post_type=product
-![image](https://robotkingdom.com.tw/wp-content/uploads/2020/03/IMG_5024-scaled.jpg)
+<img src=https://robotkingdom.com.tw/wp-content/uploads/2020/03/IMG_5024-scaled.jpg width="500" height="">
+
+## Jetbot 材料表([購買連結](https://robotkingdom.com.tw/product/rk-jetbot-luxurious/))
+NVIDIA原廠建議之材料表：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/bill-of-materials
+* 1．JETSON NANO DEVELOPMENT KIT *1+風扇*1
+* 2．64GB Micro SD卡 *1
+* 3．5V4A變壓器(接頭外徑5.5mm/內徑2.1mm)*1
+* 4．TT馬達*2(已焊線)
+* 5．DFRobot DFR0592馬達驅動板*1
+* 6．全向輪*1
+* 7．PQI 12000mAh Type C雙輸出行動電源*1
+* 8．Type C TO Micro USB線*1
+* 9．USB線紅黑剝線頭*1
+* 10．壓克力車身*1
+* 11．攝影機支架3D列印件固定座*1
+* 12．IMX219 MIPI 高品質視覺攝像模組*1
+* 13．輪胎*2
+* 14．D-Link N150無線網卡*1
+* 15．金屬螺絲螺帽+塑膠螺絲螺帽*N
+
+<img src=https://robotkingdom.com.tw/wp-content/uploads/2019/12/IMG_2420-scaled.jpg width="500" height="">
+
 
 ## 各章註解
 **第一章：AI、神經網路與邊緣裝置**
