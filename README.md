@@ -5,6 +5,8 @@ CAVEDU出版之 Jetson Nano 書籍範例與相關資源
 * 曾吉弘博士，CAVEDU教育團隊技術總監、MIT CSAIL訪問學者、NVIDIA Jetson AI ambassador
 * 郭俊廷，CAVEDU教育團隊資深講師、NVIDIA Jetson AI specialist
 
+<img src=./pics/ambassador_DavidTseng.png width="400" height="">
+
 ## 章節
 * 第一章：AI、神經網路與邊緣裝置
 * 第二章：Jetson Nano 單板電腦
