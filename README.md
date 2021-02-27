@@ -9,12 +9,39 @@ CAVEDU出版之 Jetson Nano 書籍範例與相關資源
 
 ## 章節
 * 第一章：AI、神經網路與邊緣裝置
+    - 1.1 邊緣運算裝置
+    - 1.2 單板電腦
+    - 1.3 NVIDIA線上資源
+    - 1.4 NVIDIA Jetson 家族
+    - 1.5 Jetson Nano 4GB開發套件開箱
 * 第二章：Jetson Nano 單板電腦
+    - 2.1 Jetson Nano開機！
+    - 2.2 OpenCV電腦視覺函式庫
 * 第三章：深度學習結合視覺辨識
+    - 3.1 深度學習介紹
+    - 3.2 jetson-inference相關軟體安裝
+    - 3.3 影像辨識範例
+    - 3.4 物件偵測範例
+    - 3.5 影像分割範例
 * 第四章：GPIO硬體控制
+    - 4.1 Jetson Nano GPIO腳位介紹
+    - 4.2 安裝GPIO套件
+    - 4.3 數位輸入、輸出
+    - 4.4 I2C LCD 螢幕
 * 第五章：Jetbot機器人動作控制
+    - 5.1 Jetbot
+    - 5.2 Jupyter Lab基礎操作介紹
+    - 5.3 Jetbot範例程式
 * 第六章：JetBot深度視覺機器人
+    - 6.1 淺談深度學習
+    - 6.2 障礙迴避
+    - 6.3 道路跟隨
 * 第七章：Intel RealSense 深度視覺攝影機
+    - 7.1 Intel RealSense景深攝影機
+    - 7.2 在Jetson Nano上安裝RealSense 套件
+    - 7.3 在RealSense Viewer中檢視深度影像
+    - 7.4 RealSense的Python範例
+    - 7.5 使用RealSense D435-辨識人臉與距離
 
 ## 相關連結
 * 開機用 SD 卡映像檔下載：
