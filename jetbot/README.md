@@ -1,6 +1,14 @@
 # jetbot
-=======
+
+由於檔案過大所以這邊僅提供文件，詳細內容請到[此處](https://github.com/cavedunissin/jetbot
+)確認
+
+
+---
+
 # JetBot (CAVEDU Version)
+
+
 
 | 作者 |  JUIN TING KUO |
 | ---- | ---|
