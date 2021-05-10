@@ -102,8 +102,11 @@ NVIDIA原廠建議之材料表：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/bi
 *	[註1-26] Jetson Nano快速上手頁面：https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
 
 **第二章：Jetson Nano 單板電腦**
-* [註2-1] Jetson Nano主頁面 ：https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#intro
-*	[註2-2] Jetson Nano映像檔載點：https://developer.nvidia.com/jetson-nano-sd-card-image
+* p64 CSI camera 測試指令：
+<code>gst-launch-1.0 nvarguscamerasrc ! 'video/x-raw(memory:NVMM),width=3820, height=2464, framerate=21/1, format=NV12' ! nvvidconv flipmethod=0 ! 'video/x-raw,width=960, height=616' ! nvvidconv ! nvegltransform ! nveglglessink -e</code>
+
+*   [註2-1] Jetson Nano主頁面：https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#intro
+*	[註2-2] Jetson Nano映像檔載點：TBD
 *	[註2-3] balenaEtcher: https://www.balena.io/etcher/。NVIDIA有提供各作業系統的英文教學)
 *	[註2-4] Win32 Disk Imager:https://sourceforge.net/projects/win32diskimager/
 *	[註2-5] Jetson Nano各接頭介紹：https://developer.nvidia.com/zh-cn/embedded/learn/get-started-jetson-nano-devkit
@@ -153,11 +156,12 @@ NVIDIA原廠建議之材料表：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/bi
 *	[註5-6] Road following展示影片：https://www.youtu.be/8vN29tz4omg
 *	[註5-7] Jetbot功能展示影片：https://youtu.be/UCHx_tT2x98
 *	[註5-8] Jetbot原廠硬體清單：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/bill-of-materials
-*	[註5-9] Jetbot映像檔下載點：https://jetbot.org/master/software_setup/sd_card.html
-*	[註5-10] Jupyter官方教學：https://jupyterlab.readthedocs.io/en/stable/ 
-*	[註5-11] basic_motion.ipynb: https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks_CAVEDU/basic_motion/basic_motion.ipynb
-*	[註5-12] teleoperation.ipynb: https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/teleoperation/teleoperation.ipynb
-*	[註5-13] HTML5 Gamepad Tester搖桿偵測網站：http://html5gamepad.com
+*	[註5-9] RK-Jetbot 硬體清單 
+*	[註5-10]Jetbot映像檔下載點：https://jetbot.org/master/software_setup/sd_card.html
+*	[註5-11] Jupyter官方教學：https://jupyterlab.readthedocs.io/en/stable/ 
+*	[註5-12] basic_motion.ipynb: https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks_CAVEDU/basic_motion/basic_motion.ipynb
+*	[註5-13] teleoperation.ipynb: https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/teleoperation/teleoperation.ipynb
+*	[註5-14] HTML5 Gamepad Tester搖桿偵測網站：http://html5gamepad.com
 
 **第六章：JetBot深度視覺機器人**
 *	[註6-1] 什麼是深度學習：https://blogs.nvidia.com/blog/2015/02/19/deep-learning-2/ 
