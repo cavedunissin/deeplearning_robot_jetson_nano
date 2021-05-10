@@ -1,5 +1,5 @@
-# [深度學習邊緣運算 - NVIDIA Jetson Nano(書名暫定)]
-CAVEDU出版之 Jetson Nano 書籍範例與相關資源
+# [初學 Jetson Nano 不說 No - CAVEDU 教你一次懂]
+CAVEDU 出版之 Jetson Nano 書籍範例與相關資源
 
 ## 作者
 * 曾吉弘博士，CAVEDU教育團隊技術總監、MIT CSAIL訪問學者、NVIDIA Jetson AI ambassador
