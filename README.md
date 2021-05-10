@@ -1,18 +1,47 @@
-# [深度學習邊緣運算 - NVIDIA Jetson Nano(書名暫定)]
-CAVEDU出版之 Jetson Nano 書籍範例與相關資源
+# [初學 Jetson Nano 不說 No - CAVEDU 教你一次懂]
+CAVEDU 出版之 Jetson Nano 書籍範例與相關資源
 
 ## 作者
 * 曾吉弘博士，CAVEDU教育團隊技術總監、MIT CSAIL訪問學者、NVIDIA Jetson AI ambassador
 * 郭俊廷，CAVEDU教育團隊資深講師、NVIDIA Jetson AI specialist
 
+<img src=./pics/ambassador_DavidTseng.png width="400" height="">
+
 ## 章節
 * 第一章：AI、神經網路與邊緣裝置
+    - 1.1 邊緣運算裝置
+    - 1.2 單板電腦
+    - 1.3 NVIDIA線上資源
+    - 1.4 NVIDIA Jetson 家族
+    - 1.5 Jetson Nano 4GB開發套件開箱
 * 第二章：Jetson Nano 單板電腦
+    - 2.1 Jetson Nano開機！
+    - 2.2 OpenCV電腦視覺函式庫
 * 第三章：深度學習結合視覺辨識
+    - 3.1 深度學習介紹
+    - 3.2 jetson-inference相關軟體安裝
+    - 3.3 影像辨識範例
+    - 3.4 物件偵測範例
+    - 3.5 影像分割範例
 * 第四章：GPIO硬體控制
+    - 4.1 Jetson Nano GPIO腳位介紹
+    - 4.2 安裝GPIO套件
+    - 4.3 數位輸入、輸出
+    - 4.4 I2C LCD 螢幕
 * 第五章：Jetbot機器人動作控制
+    - 5.1 Jetbot
+    - 5.2 Jupyter Lab基礎操作介紹
+    - 5.3 Jetbot範例程式
 * 第六章：JetBot深度視覺機器人
+    - 6.1 淺談深度學習
+    - 6.2 障礙迴避
+    - 6.3 道路跟隨
 * 第七章：Intel RealSense 深度視覺攝影機
+    - 7.1 Intel RealSense景深攝影機
+    - 7.2 在Jetson Nano上安裝RealSense 套件
+    - 7.3 在RealSense Viewer中檢視深度影像
+    - 7.4 RealSense的Python範例
+    - 7.5 使用RealSense D435-辨識人臉與距離
 
 ## 相關連結
 * 開機用 SD 卡映像檔下載：
@@ -73,8 +102,11 @@ NVIDIA原廠建議之材料表：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/bi
 *	[註1-26] Jetson Nano快速上手頁面：https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
 
 **第二章：Jetson Nano 單板電腦**
-* [註2-1] Jetson Nano主頁面 ：https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#intro
-*	[註2-2] Jetson Nano映像檔載點：https://developer.nvidia.com/jetson-nano-sd-card-image
+* p64 CSI camera 測試指令：
+<code>gst-launch-1.0 nvarguscamerasrc ! 'video/x-raw(memory:NVMM),width=3820, height=2464, framerate=21/1, format=NV12' ! nvvidconv flipmethod=0 ! 'video/x-raw,width=960, height=616' ! nvvidconv ! nvegltransform ! nveglglessink -e</code>
+
+*   [註2-1] Jetson Nano主頁面：https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#intro
+*	[註2-2] Jetson Nano映像檔載點：TBD
 *	[註2-3] balenaEtcher: https://www.balena.io/etcher/。NVIDIA有提供各作業系統的英文教學)
 *	[註2-4] Win32 Disk Imager:https://sourceforge.net/projects/win32diskimager/
 *	[註2-5] Jetson Nano各接頭介紹：https://developer.nvidia.com/zh-cn/embedded/learn/get-started-jetson-nano-devkit
@@ -124,11 +156,12 @@ NVIDIA原廠建議之材料表：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/bi
 *	[註5-6] Road following展示影片：https://www.youtu.be/8vN29tz4omg
 *	[註5-7] Jetbot功能展示影片：https://youtu.be/UCHx_tT2x98
 *	[註5-8] Jetbot原廠硬體清單：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/bill-of-materials
-*	[註5-9] Jetbot映像檔下載點：https://jetbot.org/master/software_setup/sd_card.html
-*	[註5-10] Jupyter官方教學：https://jupyterlab.readthedocs.io/en/stable/ 
-*	[註5-11] basic_motion.ipynb: https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks_CAVEDU/basic_motion/basic_motion.ipynb
-*	[註5-12] teleoperation.ipynb: https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/teleoperation/teleoperation.ipynb
-*	[註5-13] HTML5 Gamepad Tester搖桿偵測網站：http://html5gamepad.com
+*	[註5-9] RK-Jetbot 硬體清單 
+*	[註5-10]Jetbot映像檔下載點：https://jetbot.org/master/software_setup/sd_card.html
+*	[註5-11] Jupyter官方教學：https://jupyterlab.readthedocs.io/en/stable/ 
+*	[註5-12] basic_motion.ipynb: https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks_CAVEDU/basic_motion/basic_motion.ipynb
+*	[註5-13] teleoperation.ipynb: https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/teleoperation/teleoperation.ipynb
+*	[註5-14] HTML5 Gamepad Tester搖桿偵測網站：http://html5gamepad.com
 
 **第六章：JetBot深度視覺機器人**
 *	[註6-1] 什麼是深度學習：https://blogs.nvidia.com/blog/2015/02/19/deep-learning-2/ 
