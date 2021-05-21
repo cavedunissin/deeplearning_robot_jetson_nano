@@ -51,8 +51,10 @@ CAVEDU 出版之 Jetson Nano 書籍範例與相關資源
 * 購買 RK-jetbot：https://robotkingdom.com.tw/?s=jetbot&post_type=product
 <img src=https://robotkingdom.com.tw/wp-content/uploads/2020/03/IMG_5024-scaled.jpg width="500" height="">
 
-## Jetbot 材料表([購買連結](https://robotkingdom.com.tw/product/rk-jetbot-luxurious/))
-NVIDIA原廠建議之材料表：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/bill-of-materials
+## Jetbot 材料表
+
+* ([購買連結](https://robotkingdom.com.tw/product/rk-jetbot-luxurious/)
+* NVIDIA原廠建議之材料表：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/bill-of-materials
 * 1．JETSON NANO DEVELOPMENT KIT *1+風扇*1
 * 2．64GB Micro SD卡 *1
 * 3．5V4A變壓器(接頭外徑5.5mm/內徑2.1mm)*1
@@ -149,15 +151,15 @@ NVIDIA原廠建議之材料表：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/bi
 
 **第五章：Jetbot機器人動作控制**
 *	[註5-1] Jetbot Wiki: https://github.com/NVIDIA-AI-IOT/jetbot/wiki
-*	[註5-2]Jetbot範例：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/examples 
+*	[註5-2] Jetbot範例：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/examples 
 *	[註5-3] basic motion展示影片：https://youtu.be/L9TOpQhupmY 
 *	[註5-4] teleoperation展示影片：https://youtu.be/drOwT_HPe_k 
 *	[註5-5] collision avoidance展示影片：https://youtu.be/Nho1wcHwQUM
 *	[註5-6] Road following展示影片：https://youtu.be/8vN29tz4omg
 *	[註5-7] Jetbot功能展示影片：https://youtu.be/UCHx_tT2x98
 *	[註5-8] Jetbot原廠硬體清單：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/bill-of-materials
-*	[註5-9] RK-Jetbot 硬體清單 
-*	[註5-10]Jetbot映像檔下載點：https://drive.google.com/file/d/1G5nw0o3Q6E08xZM99ZfzQAe7-qAXxzHN/view
+*	[註5-9] RK-Jetbot 硬體清單：[請點我](#jetbot-材料表) 
+*	[註5-10] Jetbot映像檔下載點：https://drive.google.com/file/d/1G5nw0o3Q6E08xZM99ZfzQAe7-qAXxzHN/view
 *	[註5-11] Jupyter官方教學：https://jupyterlab.readthedocs.io/en/stable/ 
 *	[註5-12] basic_motion.ipynb: https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks_CAVEDU/basic_motion/basic_motion.ipynb
 *	[註5-13] teleoperation.ipynb: https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/teleoperation/teleoperation.ipynb
