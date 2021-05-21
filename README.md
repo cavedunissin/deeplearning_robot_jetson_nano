@@ -53,7 +53,7 @@ CAVEDU 出版之 Jetson Nano 書籍範例與相關資源
 
 ## Jetbot 材料表
 
-* ([購買連結](https://robotkingdom.com.tw/product/rk-jetbot-luxurious/)
+* [機器人王國商城購買連結](https://robotkingdom.com.tw/product/rk-jetbot-luxurious/)
 * NVIDIA原廠建議之材料表：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/bill-of-materials
 * 1．JETSON NANO DEVELOPMENT KIT *1+風扇*1
 * 2．64GB Micro SD卡 *1
