@@ -103,7 +103,7 @@ NVIDIA原廠建議之材料表：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/bi
 
 **第二章：Jetson Nano 單板電腦**
 * p64 CSI camera 測試指令：
-<code>gst-launch-1.0 nvarguscamerasrc ! 'video/x-raw(memory:NVMM),width=3820, height=2464, framerate=21/1, format=NV12' ! nvvidconv flipmethod=0 ! 'video/x-raw,width=960, height=616' ! nvvidconv ! nvegltransform ! nveglglessink -e</code>
+<code>gst-launch-1.0 nvarguscamerasrc ! 'video/x-raw(memory:NVMM),width=3820, height=2464, framerate=21/1, format=NV12' ! nvvidconv flip-method=0 ! 'video/x-raw,width=960, height=616' ! nvvidconv ! nvegltransform ! nveglglessink -e</code>
 
 *   [註2-1] Jetson Nano主頁面：https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#intro
 *	[註2-2] Jetson Nano映像檔載點：https://developer.nvidia.com/jetson-nano-sd-card-image-441
