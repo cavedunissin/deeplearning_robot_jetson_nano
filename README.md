@@ -44,7 +44,7 @@ CAVEDU 出版之 Jetson Nano 書籍範例與相關資源
     - 7.5 使用RealSense D435-辨識人臉與距離
 
 ## 相關連結
-* 開機用 SD 卡映像檔下載：
+* 開機用 SD 卡映像檔下載：https://developer.nvidia.com/jetson-nano-sd-card-image-441
 * CAVEDU 技術部落格相關文章：https://blog.cavedu.com/?s=jetson
 * 購書：
 * 購買 Jetson Nano套件：https://robotkingdom.com.tw/product/nvidia-jetson-nano-developer-kit-set-b01/
@@ -93,15 +93,16 @@ CAVEDU 出版之 Jetson Nano 書籍範例與相關資源
 *	[註1-15] Jetson TX: https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-tx2/
 *	[註1-16] MIT Racecar: https://racecar.mit.edu/
 *	[註1-17] Jetson AGX Xavier: https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-agx-xavier/
-*	[註1-18] Jetson nano: https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/
-*	[註1-19] Jetbot open source robot project: https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetbot-ai-robot-kit/
-*	[註1-20] Duckietown – Learning Autonomy: https://www.duckietown.org/ ; https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/duckietown/
-*	[註1-21] Jetson NX: https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-xavier-nx/
-*	[註1-22] JetRacer: https://github.com/NVIDIA-AI-IOT/jetracer)
-*	[註1-23] Jetson系列規格比較: https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/ ; https://developer.nvidia.com/embedded/jetson-nano-dl-inference-benchmarks
-*	[註1-24] Jetson系列之神經網路推論速度比較：https://developer.nvidia.com/embedded/jetson-benchmarks 
-*	[註1-25] Jetson Nano與其他SBC效能比較：https://devblogs.nvidia.com/jetson-nano-ai-computing/
-*	[註1-26] Jetson Nano快速上手頁面：https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
+*	[註1-18] Volvo 選用 NVIDIA DRIVE 開發量產車款：https://www.nvidia.com/zh-tw/about-nvidia/press-releases/2019/volvo-chooses-nvidia-drive-to-develop-production-models/
+*	[註1-19]Jetson nano: https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/
+*	[註1-20] Jetbot open source robot project: https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetbot-ai-robot-kit/
+*	[註1-21] Duckietown – Learning Autonomy: https://www.duckietown.org/ ; https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/duckietown/
+*	[註1-22] Jetson NX: https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-xavier-nx/
+*	[註1-23] JetRacer: https://github.com/NVIDIA-AI-IOT/jetracer)
+*	[註1-24] Jetson系列規格比較: https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/ ; https://developer.nvidia.com/embedded/jetson-nano-dl-inference-benchmarks
+*	[註1-25] Jetson系列之神經網路推論速度比較：https://developer.nvidia.com/embedded/jetson-benchmarks 
+*	[註1-26] Jetson Nano與其他SBC效能比較：https://devblogs.nvidia.com/jetson-nano-ai-computing/
+*	[註1-27] Jetson Nano快速上手頁面：https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
 
 **第二章：Jetson Nano 單板電腦**
 * p64 CSI camera 測試指令：
