@@ -183,7 +183,7 @@ CAVEDU 出版之 Jetson Nano 書籍範例與相關資源
 *	[註7-1] Intel RealSense: https://www.intelrealsense.com/ ; https://www.intel.com.tw/content/www/tw/zh/architecture-and-technology/realsense-overview.html
 *	[註7-2] Intel RealSense D435景深攝影機：https://www.intelrealsense.com/depth-camera-d435/
 *	[註7-3] JetsonHacksNano: https://github.com/JetsonHacksNano
-*	[註7-4] Intel RealSense SDK 安裝須知: https://github.com/IntelRealSense/librealsense/blob/aae6f315ce80ff80df5bc9439b4ee852187533c1/doc/installation_jetson.md
+*	[註7-4] Intel RealSense SDK 安裝須知: https://github.com/IntelRealSense/librealsense/blob/master/doc/installation_jetson.md
 *	[註7-5] RealSense Viewer: https://www.intelrealsense.com/sdk-2/
 *	[註7-6] RealSense code example:  https://github.com/IntelRealSense/librealsense/tree/master/wrappers/python/examples 
 *	[註7-7] Pyrealsense2: https://intelrealsense.github.io/librealsense/python_docs/_generated/pyrealsense2.html
