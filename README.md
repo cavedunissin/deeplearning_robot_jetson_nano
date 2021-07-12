@@ -46,14 +46,14 @@ CAVEDU 出版之 Jetson Nano 書籍範例與相關資源
 ## 相關連結
 * 開機用 SD 卡映像檔下載：https://developer.nvidia.com/jetson-nano-sd-card-image-441
 * CAVEDU 技術部落格相關文章：https://blog.cavedu.com/?s=jetson
-* 購書：
+* 購書：https://robotkingdom.com.tw/product/9789869329989/
 * 購買 Jetson Nano套件：https://robotkingdom.com.tw/product/nvidia-jetson-nano-developer-kit-set-b01/
 * 購買 RK-jetbot：https://robotkingdom.com.tw/?s=jetbot&post_type=product
 <img src=https://robotkingdom.com.tw/wp-content/uploads/2020/03/IMG_5024-scaled.jpg width="500" height="">
 
 ## Jetbot 材料表
 
-* [機器人王國商城購買連結](https://robotkingdom.com.tw/product/rk-jetbot-luxurious/)
+* [機器人王國商城購買連結]:https://robotkingdom.com.tw/product/rk-jetbot-luxurious/
 * NVIDIA原廠建議之材料表：https://github.com/NVIDIA-AI-IOT/jetbot/wiki/bill-of-materials
 * 1．JETSON NANO DEVELOPMENT KIT *1+風扇*1
 * 2．64GB Micro SD卡 *1
@@ -180,6 +180,7 @@ CAVEDU 出版之 Jetson Nano 書籍範例與相關資源
 *	[註6-11]ResNet-18神經網路：https://pytorch.org/hub/pytorch_vision_resnet/
 
 **第七章：Intel RealSense 深度視覺攝影機**
+     P229 安裝RealSenseviewer套件網址部分有更改(更改教學如下):
 *	[註7-1] Intel RealSense: https://www.intelrealsense.com/ ; https://www.intel.com.tw/content/www/tw/zh/architecture-and-technology/realsense-overview.html
 *	[註7-2] Intel RealSense D435景深攝影機：https://www.intelrealsense.com/depth-camera-d435/
 *	[註7-3] JetsonHacksNano: https://github.com/JetsonHacksNano
