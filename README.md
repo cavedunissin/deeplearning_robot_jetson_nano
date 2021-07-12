@@ -180,7 +180,7 @@ CAVEDU 出版之 Jetson Nano 書籍範例與相關資源
 *	[註6-11]ResNet-18神經網路：https://pytorch.org/hub/pytorch_vision_resnet/
 
 **第七章：Intel RealSense 深度視覺攝影機**
-*	P229 安裝RealSenseviewer套件網址部分有更改(更改教學如下):
+*	P229 安裝RealSenseviewer套件網址部分有更改(更改教學如下):https://blog.cavedu.com/2021/07/12/realsense/
 *	[註7-1] Intel RealSense: https://www.intelrealsense.com/ ; https://www.intel.com.tw/content/www/tw/zh/architecture-and-technology/realsense-overview.html
 *	[註7-2] Intel RealSense D435景深攝影機：https://www.intelrealsense.com/depth-camera-d435/
 *	[註7-3] JetsonHacksNano: https://github.com/JetsonHacksNano
